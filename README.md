@@ -56,6 +56,9 @@
 <a href="https://www.figma.com/ja/" target="_blank" rel="noreferrer">
   <img src="https://cdn.svgporn.com/logos/figma.svg" alt="Figma" width="40" height="40"/>
 </a>
+<a href="https://www.shopify.com/jp" target="_blank" rel="noreferrer">
+  <img src="https://cdn.svgporn.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/>
+</a>
 
 
 
