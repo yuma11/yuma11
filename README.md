@@ -12,9 +12,6 @@
 <a href="https://www.ruby-lang.org/ja/" target="_blank" rel="noreferrer">
   <img src="https://cdn.svgporn.com/logos/ruby.svg" alt="Ruby" width="40" height="40"/>
 </a>
-<a href="https://golang.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-</a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
