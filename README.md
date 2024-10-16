@@ -18,12 +18,6 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
 </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-</a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
-</a>
 
 <h2 align="left">Tools & Services:</h2>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
