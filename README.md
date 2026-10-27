@@ -2,7 +2,9 @@
   <img src="assets/fox-banner.svg" width="100%" alt="A pixel fox running under the night sky" />
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<p align="center">
+  <img src="assets/heading-tech-stack.svg" alt="Tech Stack" />
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,ts,react,astro,tailwind,php,laravel,docker,aws,figma" alt="Next.js, TypeScript, React, Astro, Tailwind CSS, PHP, Laravel, Docker, AWS, Figma" />
 </p>
